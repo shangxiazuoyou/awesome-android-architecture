@@ -45,7 +45,59 @@
 
 - [一个Android项目搞定所有主流架构-2.MVP+单元测试](http://www.jianshu.com/p/aa948c640433)
 
+- [重构！将Google官方Android MVP应用于已有项目](http://www.jianshu.com/p/bb5df9b7e357)
+
+- [MVP在Android项目中的简单体现](https://juejin.im/post/589ac84761ff4b006b286ede)
+
+- [用MVP架构开发Android应用](https://www.kymjs.com/code/2015/11/09/01/)
+
+- [Android架构（一）MVP架构在Android中的实践](http://blog.csdn.net/johnny901114/article/details/54783106)
+
+- [MVP模式在Android开发中的应用](http://blog.csdn.net/vector_yi/article/details/24719873)
+
+- [Android中的MVP，值得你一看](http://blog.csdn.net/SonnyJack/article/details/53184181)
+
+- [MVP实战心得(四)---封装优化,拆分Toolbar与ContentView](http://www.jianshu.com/p/6b4d764fbb24)
+
+- [MVP实战心得(五)--Toolbar封装优化,放弃butterknife](http://www.jianshu.com/p/5cb2586ac965)
+
+- [一步一步实现Android的MVP框架](http://dev.qq.com/topic/5799d7844bef22a823b3ad44)
+
+- [Android MVP 架构必要知识](https://github.com/xitu/gold-miner/blob/master/TODO/essential-guide-for-designing-your-android-app-architecture-mvp-part.md)
+
+- [关于Android MVP模式的思考](http://remcarpediem.com/2017/03/12/%E5%85%B3%E4%BA%8EAndroid-MVP%E6%A8%A1%E5%BC%8F%E7%9A%84%E6%80%9D%E8%80%83/)
+
+- [Android架构设计---MVP模式第（二）篇，如何减少类爆炸](http://www.jianshu.com/p/3a17382d44de)
+
+- [Android项目基本架构（三） Retrofit + Rx +OkHttp + MVP](http://www.jianshu.com/p/fc91e1b1f0e7)
+
+- [Android学习探索之运用MVP设计模式实现项目解耦](http://www.cnblogs.com/whoislcj/p/6646925.html)
+
+- [带你高效学习MVP+RxJava+Retrofit](http://www.jianshu.com/p/c81c48144029)
+
+- [Rxjava+retrofit+mvp整合](http://blog.csdn.net/forezp/article/details/52621898)
+
+- [【知识必备】浅淡MVP在Android项目中的实战演习，让代码结构更简单~](http://www.cnblogs.com/liushilin/p/6760431.html)
+
+- [跟着google学习mvp架构](https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247484453&idx=1&sn=425a664b5fdc22242b396213a4e87400&chksm=96cda568a1ba2c7e2b7d156b805052b15abf986eca89e1326937173732d2addd5b7bed6d01a6&mpshare=1&scene=1&srcid=0517TI4IYrxzjfWYCThEjmFT&key=2cfcb6157f85ca1954390a652b634778334562fe9f95e178ebcf32c0a362cd7cfa5b849a8d06db8c5732a249743a1e53dbd6beb498e5e09fd5c4ecd9ed26269b29f0348d2f59776decb74af5ec29257a&ascene=0&uin=MjI2ODA0ODAzNg%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.4+build(16E195)&version=12020110&nettype=WIFI&fontScale=100&pass_ticket=I6A5ArGC0N9p%2FDpri6MkyCQtfKhQSt5OZ%2BGc%2BOSHEajIFCQHMmqgGDkHWIueuZyn)
+
 #### MVVM
+
+#### MVC MVP MVVM 比较
+- - -
+- [MVVM MVC MVP到底是什么](http://www.jianshu.com/p/fc1f75df5440)
+
+- [Android App的设计架构：MVC, MVP, MVVM](http://www.jianshu.com/p/3010760035e0)
+
+- [浅谈Android架构之MVP,MVVM](http://www.jianshu.com/p/fb7bf6e9dd18)
+
+- [Android中MVP模式与MVC模式比较（含示例）](http://blog.csdn.net/l664675249/article/details/50542524)
+
+- [细说Android框架设计三剑客MVC、MVP和MVVM](http://blog.csdn.net/mynameishuangshuai/article/details/52808032)
+
+- [选择恐惧症的福音！教你认清MVC，MVP和MVVM](http://zjutkz.net/2016/04/13/%E9%80%89%E6%8B%A9%E6%81%90%E6%83%A7%E7%97%87%E7%9A%84%E7%A6%8F%E9%9F%B3%EF%BC%81%E6%95%99%E4%BD%A0%E8%AE%A4%E6%B8%85MVC%EF%BC%8CMVP%E5%92%8CMVVM/)
+
+- - -
 
 ### GitHub
 - [T-MVP](https://github.com/north2016/T-MVP) -Android AOP Architecture by Apt, AspectJ, Javassisit, based on Realm+Databinding+MVP+Retrofit+Rxjava
@@ -73,3 +125,10 @@
 - [ferro](https://github.com/MaksTuev/ferro) -Simple and powerful MVP library for Android
 
 - [FastDev4Android](https://github.com/jiangqqlmj/FastDev4Android) -本项目是Android快速开发框架，采用AndroidStudio进行开发。 预想集成工具包,采用MVP开发模式,EventBus数据分发,沉浸式状态栏,ORM,网络请求(HTTPClint,Volley,OkHttps),数据解析,依赖注入(AndroidAnnotations),xutils,图片异步加载，二维码扫描等等
+
+- [EasyMVP](https://github.com/6thsolution/EasyMVP) -A full-featured framework that allows building android applications following the principles of Clean Architecture
+
+- [MvpApp](https://github.com/Rukey7/MvpApp) -Android MVP Architecture Study
+
+### 插件
+- [Android MVP Plugin，一键完成MVP结构代码编写](https://mp.weixin.qq.com/s/fo34hyvjzNSURSh_V8y4oQ)
