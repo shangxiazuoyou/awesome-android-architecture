@@ -81,6 +81,44 @@
 
 - [跟着google学习mvp架构](https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247484453&idx=1&sn=425a664b5fdc22242b396213a4e87400&chksm=96cda568a1ba2c7e2b7d156b805052b15abf986eca89e1326937173732d2addd5b7bed6d01a6&mpshare=1&scene=1&srcid=0517TI4IYrxzjfWYCThEjmFT&key=2cfcb6157f85ca1954390a652b634778334562fe9f95e178ebcf32c0a362cd7cfa5b849a8d06db8c5732a249743a1e53dbd6beb498e5e09fd5c4ecd9ed26269b29f0348d2f59776decb74af5ec29257a&ascene=0&uin=MjI2ODA0ODAzNg%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.4+build(16E195)&version=12020110&nettype=WIFI&fontScale=100&pass_ticket=I6A5ArGC0N9p%2FDpri6MkyCQtfKhQSt5OZ%2BGc%2BOSHEajIFCQHMmqgGDkHWIueuZyn)
 
+- [MVP模式开发之项目框架的搭建](http://blog.csdn.net/pan861190079/article/details/72825797)
+
+- [关于Android MVP模式的思考](http://remcarpediem.com/2017/03/12/%E5%85%B3%E4%BA%8EAndroid-MVP%E6%A8%A1%E5%BC%8F%E7%9A%84%E6%80%9D%E8%80%83/)
+
+- [传统MVP用在项目中是真的方便还是累赘?](https://juejin.im/post/58b25e588d6d810057ed3659)
+
+- [Android开发：浅谈MVP模式应用与内存泄漏](http://blog.csdn.net/xiong_it/article/details/52610729)
+
+- [浅谈Andorid开发中的MVP模式](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0225/3994.html)
+
+- [MVP模式在Android开发中的最佳实践](http://blog.csdn.net/sbsujjbcy/article/details/50707696)
+
+- [细说 Android 的 MVP 模式](http://www.codeceo.com/article/android-mvp-mode.html)
+
+- [Android应用中MVP最佳实践](http://www.jianshu.com/p/ed2aa9546c2c)
+
+- [Android开发中的MVP架构](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0105/3832.html)
+
+- [Android开发MVP模式解析](http://blog.csdn.net/guxiao1201/article/details/40147209)
+
+- [Android开发MVP模式实践](http://blog.csdn.net/guxiao1201/article/details/40151457)
+
+- [MVP on Android](http://www.cnblogs.com/mybkn/archive/2012/04/12/2443676.html)
+
+- [android中MVP模式（一）](http://blog.csdn.net/knxw0001/article/details/39637273)
+
+- [android中mvp模式（二）](http://blog.csdn.net/knxw0001/article/details/39672917)
+
+- [Android MVP+Retrofit+RxJava实践小结](http://www.jianshu.com/p/c2081b62a979)
+
+- [Android 教你一步步搭建MVP+Retrofit+RxJava网络请求框架](http://www.jianshu.com/p/7b839b7c5884)
+
+- [浅谈MVP](https://juejin.im/post/58b96ece128fe1007e46f1bf)
+
+- [MVP+Dagger2+Rxjava+Retrofit+GreenDao 小应用，包含新闻、图片、视频3个大模块，代码整洁干练](http://www.jianshu.com/p/b1df2a42a380)
+
+- [利用Dagger2构建的简易MVP框架](http://blog.csdn.net/yaodong379/article/details/61414333)
+
 #### MVVM
 
 #### MVC MVP MVVM 比较
@@ -129,6 +167,12 @@
 - [EasyMVP](https://github.com/6thsolution/EasyMVP) -A full-featured framework that allows building android applications following the principles of Clean Architecture
 
 - [MvpApp](https://github.com/Rukey7/MvpApp) -Android MVP Architecture Study
+
+- [MVPArt](https://github.com/JessYanCoding/MVPArt) -A New Android MVP Architecture
+
+- [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) -This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach
+
+- [MVVM_Android-CleanArchitecture](https://github.com/zhengxiaopeng/MVVM_Android-CleanArchitecture) -Refactor MVP pattern to MVVM pattern in presentation tier/layer(此项目由 Android-CleanArchitecture fork 而来, 展现层(Presentation tier)重构成由 MVVM 模式实现)
 
 ### 插件
 - [Android MVP Plugin，一键完成MVP结构代码编写](https://mp.weixin.qq.com/s/fo34hyvjzNSURSh_V8y4oQ)
