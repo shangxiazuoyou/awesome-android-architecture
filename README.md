@@ -174,5 +174,7 @@
 
 - [MVVM_Android-CleanArchitecture](https://github.com/zhengxiaopeng/MVVM_Android-CleanArchitecture) -Refactor MVP pattern to MVVM pattern in presentation tier/layer(此项目由 Android-CleanArchitecture fork 而来, 展现层(Presentation tier)重构成由 MVVM 模式实现)
 
+- [EliteMvp](https://github.com/jemshit/EliteMvp) -Simple, Tiny, Extendable Android MVP library
+
 ### 插件
 - [Android MVP Plugin，一键完成MVP结构代码编写](https://mp.weixin.qq.com/s/fo34hyvjzNSURSh_V8y4oQ)
