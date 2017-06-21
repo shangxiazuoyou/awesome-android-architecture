@@ -119,6 +119,8 @@
 
 - [利用Dagger2构建的简易MVP框架](http://blog.csdn.net/yaodong379/article/details/61414333)
 
+- [Base封装(一)--我的最简MVP架构](http://www.jianshu.com/p/7275393d477c)
+
 #### MVVM
 
 #### MVC MVP MVVM 比较
