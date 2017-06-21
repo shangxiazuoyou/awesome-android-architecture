@@ -121,6 +121,8 @@
 
 - [Base封装(一)--我的最简MVP架构](http://www.jianshu.com/p/7275393d477c)
 
+- [Android 架构选型 (MVP+DataBinding)](https://juejin.im/post/59418e1f61ff4b006cc09604)
+
 #### MVVM
 
 #### MVC MVP MVVM 比较
