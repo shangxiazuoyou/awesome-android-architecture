@@ -13,6 +13,8 @@
 
 - [从零开始的Android新项目3 - MVPVM in Action, 谁告诉你MVP和MVVM是互斥的](http://blog.zhaiyifan.cn/2016/03/16/android-new-project-from-0-p3/)
 
+- [常见的客户端架构解析](http://www.jianshu.com/p/1b5c3ca420d0)
+
 #### MVP
 - [T-MVP：泛型深度解耦下的MVP大瘦身](http://www.jianshu.com/p/b49958e1889d)
 
