@@ -1,4 +1,11 @@
 ### 文章
+- [Android APP 架构心得](http://www.jianshu.com/p/2d5c1d855c31)
+
+- [Android App 的设计架构：MVC、MVP、MVVM 与架构经验谈](https://juejin.im/entry/56ebb4ad5bbb50004c440972)
+
+- [Archi - 用三种 Android 代码架构来重构一个应用](https://juejin.im/entry/5610237eddb2e44a626aa2ea)
+
+- [Android架构初探](http://www.lightskystreet.com/2016/05/20/android-architecture/)
 
 #### MVP
 - [T-MVP：泛型深度解耦下的MVP大瘦身](http://www.jianshu.com/p/b49958e1889d)
@@ -123,7 +130,30 @@
 
 - [Android 架构选型 (MVP+DataBinding)](https://juejin.im/post/59418e1f61ff4b006cc09604)
 
+- [如何玩转MVP（最小可行产品）？](https://mp.weixin.qq.com/s/yMvwLYzcSRapbf9z7VB4vQ)
+
+- [MVP模式入门（结合Rxjava，Retrofit）](http://www.cnblogs.com/xurui1995/p/6021209.html)
+
+- [不要再给MVP中Prensenter写接口了](http://www.infoq.com/cn/articles/do-not-give-the-prensenter-in-mvp-interface)
+
+- [清晰 mvc 再战 android](https://juejin.im/entry/57732f5cc4c9710055320c7d)
+
+- [解读Android官方MVP项目单元测试](http://www.jianshu.com/p/cf446be43ae8)
+
+- [被误解的 MVC 和被神化的 MVVM](https://juejin.im/entry/56393caf60b204d5b21d1475)
+
+- [MVP 实现的 Android 基础项目架构](https://juejin.im/entry/56cd79c12e958a69f944984c)
+
+- [如何设计MVP中的Presentation层](http://blog.chengdazhi.com/index.php/115)
+
+- [Android 的一个 MVP 基础项目模板](https://juejin.im/entry/5630f9c600b0ee7f0bb48c25)
+
+- [Android的MVP设计模式](https://juejin.im/entry/5686b3c160b2c297d028a4ea)
+
+- [用MVP架构开发Android应用](https://juejin.im/entry/5641337e00b0cfbabc5c893d)
+
 #### MVVM
+- [如何构建Android MVVM 应用框架](http://android.jobbole.com/85198/)
 
 #### MVC MVP MVVM 比较
 - - -
@@ -179,6 +209,8 @@
 - [MVVM_Android-CleanArchitecture](https://github.com/zhengxiaopeng/MVVM_Android-CleanArchitecture) -Refactor MVP pattern to MVVM pattern in presentation tier/layer(此项目由 Android-CleanArchitecture fork 而来, 展现层(Presentation tier)重构成由 MVVM 模式实现)
 
 - [EliteMvp](https://github.com/jemshit/EliteMvp) -Simple, Tiny, Extendable Android MVP library
+
+- [MVP-Dagger2-Retrofit](https://github.com/thinkSky1206/MVP-Dagger2-Retrofit) -a simple demo about MVP+Dagger2+Retrofit
 
 ### 插件
 - [Android MVP Plugin，一键完成MVP结构代码编写](https://mp.weixin.qq.com/s/fo34hyvjzNSURSh_V8y4oQ)
