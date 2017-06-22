@@ -7,6 +7,12 @@
 
 - [Android架构初探](http://www.lightskystreet.com/2016/05/20/android-architecture/)
 
+- [Android 架构合集（请关注github，后续更新）](https://juejin.im/entry/5716e9f871cfe4006db747d4)
+
+- [我眼中的 Android 架构](https://juejin.im/entry/5703ca7d71cfe4005cee01f3)
+
+- [从零开始的Android新项目3 - MVPVM in Action, 谁告诉你MVP和MVVM是互斥的](http://blog.zhaiyifan.cn/2016/03/16/android-new-project-from-0-p3/)
+
 #### MVP
 - [T-MVP：泛型深度解耦下的MVP大瘦身](http://www.jianshu.com/p/b49958e1889d)
 
@@ -152,6 +158,8 @@
 
 - [用MVP架构开发Android应用](https://juejin.im/entry/5641337e00b0cfbabc5c893d)
 
+- [开源项目Philm的MVP架构分析](http://www.lightskystreet.com/2015/02/10/philm_mvp/)
+
 #### MVVM
 - [如何构建Android MVVM 应用框架](http://android.jobbole.com/85198/)
 
@@ -211,6 +219,8 @@
 - [EliteMvp](https://github.com/jemshit/EliteMvp) -Simple, Tiny, Extendable Android MVP library
 
 - [MVP-Dagger2-Retrofit](https://github.com/thinkSky1206/MVP-Dagger2-Retrofit) -a simple demo about MVP+Dagger2+Retrofit
+
+- [UpcomingMoviesMVP](https://github.com/jlmd/UpcomingMoviesMVP) -Sample project of MVP and Material Design using as repository a list of upcoming movies
 
 ### 插件
 - [Android MVP Plugin，一键完成MVP结构代码编写](https://mp.weixin.qq.com/s/fo34hyvjzNSURSh_V8y4oQ)
