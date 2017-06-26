@@ -162,6 +162,10 @@
 
 - [开源项目Philm的MVP架构分析](http://www.lightskystreet.com/2015/02/10/philm_mvp/)
 
+- [MVP 设计模式理解，实战理解MVP](http://blog.csdn.net/u011418943/article/details/69840880)
+
+- [MVP 在项目中的最佳实战(封装篇)](http://blog.csdn.net/u011418943/article/details/73731023)
+
 #### MVVM
 - [如何构建Android MVVM 应用框架](http://android.jobbole.com/85198/)
 
