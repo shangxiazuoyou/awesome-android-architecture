@@ -15,6 +15,18 @@
 
 - [常见的客户端架构解析](http://www.jianshu.com/p/1b5c3ca420d0)
 
+- [实战解析Android架构设计原则](http://www.codeceo.com/article/android-artch-design.html)
+
+- [Android App的设计架构：MVC,MVP,MVVM与架构经验谈](http://android.jobbole.com/82578/)
+
+- [从零开始的Android新项目1 - 架构搭建篇](http://blog.zhaiyifan.cn/2016/03/14/android-new-project-from-0-p1/)
+
+- [MVC，MVP 和 MVVM 的图示](http://www.kuqin.com/shuoit/20150201/344664.html)
+
+- [用MVP架构开发Android应用](https://kymjs.com/code/2015/11/09/01/)
+
+- [Keegan小钢 Android项目重构之路:架构篇](http://keeganlee.me/post/android/20150605)
+
 #### MVP
 - [T-MVP：泛型深度解耦下的MVP大瘦身](http://www.jianshu.com/p/b49958e1889d)
 
@@ -227,6 +239,8 @@
 - [MVP-Dagger2-Retrofit](https://github.com/thinkSky1206/MVP-Dagger2-Retrofit) -a simple demo about MVP+Dagger2+Retrofit
 
 - [UpcomingMoviesMVP](https://github.com/jlmd/UpcomingMoviesMVP) -Sample project of MVP and Material Design using as repository a list of upcoming movies
+
+- [OuNews](https://github.com/oubowu/OuNews) -新闻阅读
 
 ### 插件
 - [Android MVP Plugin，一键完成MVP结构代码编写](https://mp.weixin.qq.com/s/fo34hyvjzNSURSh_V8y4oQ)
