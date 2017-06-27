@@ -242,5 +242,17 @@
 
 - [OuNews](https://github.com/oubowu/OuNews) -新闻阅读
 
+- [ProjectPatternStudy](https://github.com/youlookwhat/ProjectPatternStudy) -Android MVC、MVP、MVVM+data-binding、MVP+data-binding 架构简单实现
+
+- [AppCodeArchitecture](https://github.com/Frank-Zhu/AppCodeArchitecture) -安卓APP代码架构，包含比较常用的开源库使用
+
+- [ReduxDemoForAndroid](https://github.com/ntop001/ReduxDemoForAndroid) -Redux架构的Android实现
+
+- [MyFluxApp-TodoList](https://github.com/SpikeKing/MyFluxApp-TodoList) -实践移动端的 Flux 架构
+
+- [JD-Test](https://github.com/liu-xiao-dong/JD-Test) -仿京东app 采用组件化架构 首页采用屏幕适配的较好方案
+
+- [MVVM](https://github.com/AriaLyy/MVVM) -Android MVVM框架
+
 ### 插件
 - [Android MVP Plugin，一键完成MVP结构代码编写](https://mp.weixin.qq.com/s/fo34hyvjzNSURSh_V8y4oQ)
