@@ -178,6 +178,12 @@
 
 - [MVP 在项目中的最佳实战(封装篇)](http://blog.csdn.net/u011418943/article/details/73731023)
 
+- [Android程序设计探索：MVP与模块化](http://www.jianshu.com/p/fb057953131e)
+
+- [一步一步带你认识MVP+Retrofit+Rxjava并封装（一）](http://www.jianshu.com/p/8b5405cd6b39)
+
+- [一步一步带你认识MVP+Retrofit+Rxjava并封装（二）](http://www.jianshu.com/p/43bb7baf6c10)
+
 #### MVVM
 - [如何构建Android MVVM 应用框架](http://android.jobbole.com/85198/)
 
