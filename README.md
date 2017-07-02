@@ -187,6 +187,14 @@
 #### MVVM
 - [如何构建Android MVVM 应用框架](http://android.jobbole.com/85198/)
 
+- [Android MVVM模式](http://www.devtf.cn/?p=1006)
+
+- [MVVM_Android-CleanArchitecture](https://rocko.xyz/2015/11/07/MVVM_Android-CleanArchitecture/)
+
+- [如何构建Android MVVM应用程序](http://www.jianshu.com/notifications#/comments)
+
+- [关于android中的MVVM模式，你须知道的事情](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0602/2973.html)
+
 #### MVC MVP MVVM 比较
 - - -
 - [MVVM MVC MVP到底是什么](http://www.jianshu.com/p/fc1f75df5440)
@@ -259,6 +267,24 @@
 - [JD-Test](https://github.com/liu-xiao-dong/JD-Test) -仿京东app 采用组件化架构 首页采用屏幕适配的较好方案
 
 - [MVVM](https://github.com/AriaLyy/MVVM) -Android MVVM框架
+
+- [MVCHelper](https://github.com/LuckyJayce/MVCHelper) -实现下拉刷新，滚动底部自动加载更多，分页加载，自动切换显示网络失败布局，暂无数据布局，支持任意view，支持切换主流下拉刷新框架，真正的android MVC架构,listview,RecyclerView,refresh,loadmore
+
+- [PhotoNoter](https://github.com/yydcdut/PhotoNoter) -:notebook:Material Design风格的开源照片笔记。(MVP+Dagger2+RxJava+AspectJ+Dex处理)
+
+- [Pioneer](https://github.com/baoti/Pioneer) -A android project using Data/Biz/Ui and MVP.该项目演示使用最佳实践来开发Android应用。Dependencies: Dagger, Otto, okhttp, Picasso, Retrofit, Butterknife and Timber.它使用了 分层、MVP、依赖注入、View注解和事件总线等模式
+
+- [FastDev4Android](https://github.com/jiangqqlmj/FastDev4Android) -本项目是Android快速开发框架，采用AndroidStudio进行开发。 预想集成工具包,采用MVP开发模式,EventBus数据分发,沉浸式状态栏,ORM,网络请求(HTTPClint,Volley,OkHttps),数据解析,依赖注入(AndroidAnnotations),xutils,图片异步加载，二维码扫描等等，后续会进行逐步添加
+
+- [android-basic-project-architecture-for-mvp](https://github.com/xitu/gold-miner/blob/master/TODO/android-basic-project-architecture-for-mvp.md) -Android 的一个 MVP 基础项目模板
+
+- [AndroidMvc](https://github.com/kejunxia/AndroidMvc) -Android MVC/MVP/MVVM framework
+
+- [MVVM](https://github.com/AriaLyy/MVVM) -Android MVVM框架
+
+- [MVP-Dagger2-Retrofit](https://github.com/thinkSky1206/MVP-Dagger2-Retrofit) -a simple demo about MVP+Dagger2+Retrofit
+
+- [MVPframe](https://github.com/CarlLu/MVPframe) -Dagger2+Rxjava+Retrofit+MVP
 
 ### 插件
 - [Android MVP Plugin，一键完成MVP结构代码编写](https://mp.weixin.qq.com/s/fo34hyvjzNSURSh_V8y4oQ)
