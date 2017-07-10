@@ -184,6 +184,8 @@
 
 - [一步一步带你认识MVP+Retrofit+Rxjava并封装（二）](http://www.jianshu.com/p/43bb7baf6c10)
 
+- [Android程序设计探索：MVP与模块化](http://www.jianshu.com/p/fb057953131e)
+
 #### MVVM
 - [如何构建Android MVVM 应用框架](http://android.jobbole.com/85198/)
 
