@@ -211,6 +211,15 @@
 
 - [选择恐惧症的福音！教你认清MVC，MVP和MVVM](http://zjutkz.net/2016/04/13/%E9%80%89%E6%8B%A9%E6%81%90%E6%83%A7%E7%97%87%E7%9A%84%E7%A6%8F%E9%9F%B3%EF%BC%81%E6%95%99%E4%BD%A0%E8%AE%A4%E6%B8%85MVC%EF%BC%8CMVP%E5%92%8CMVVM/)
 
+### 其他
+- [Android 架构：Part 1 —— 那些年我们犯过的错](https://juejin.im/post/597a2934f265da3e282ba798)
+
+- [Android 架构：Part 2 —— 介绍 Clean Architecture](https://juejin.im/post/597a2acef265da3e2d46ba81)
+
+- [Android 架构：Part 3 —— 应用 Clean Architecture](https://juejin.im/post/597a2b88f265da3e185e7458)
+
+- [Android 架构：Part 4 —— 实践 Clean Architecture（含源码）](https://juejin.im/post/597a2c1651882515401217dd)
+
 - - -
 
 ### GitHub
