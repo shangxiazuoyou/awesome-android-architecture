@@ -297,5 +297,7 @@
 
 - [MVPframe](https://github.com/CarlLu/MVPframe) -Dagger2+Rxjava+Retrofit+MVP
 
+- [android-mvp-interactor-architecture](https://github.com/MindorksOpenSource/android-mvp-interactor-architecture) -Extension of the android-mvp-architecture for very large projects
+
 ### 插件
 - [Android MVP Plugin，一键完成MVP结构代码编写](https://mp.weixin.qq.com/s/fo34hyvjzNSURSh_V8y4oQ)
